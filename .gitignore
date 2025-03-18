@@ -1,0 +1,4 @@
+.env
+env.yml
+env.yaml
+firebase_credentials.json
